@@ -1,1 +1,1 @@
-# Gradient-Accumulation---Cosmos
+# DistributedGPU---Cosmos
